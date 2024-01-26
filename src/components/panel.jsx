@@ -1,4 +1,4 @@
-import './panel.css'
+import "../styles/panel.css"
 export function Panel() {
     return (
         <nav className="panel">
